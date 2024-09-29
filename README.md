@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tenserflow**
 
-- 👨‍💻 All of my projects are available at [https://visheshportfolio-gwtl12i06-vishesh1525s-projects.vercel.app/](https://visheshportfolio-gwtl12i06-vishesh1525s-projects.vercel.app/)
+<!--- - 👨‍💻 All of my projects are available at [https://visheshportfolio-gwtl12i06-vishesh1525s-projects.vercel.app/](https://visheshportfolio-gwtl12i06-vishesh1525s-projects.vercel.app/)-->
 
 - 📫 How to reach me **visheshhirisave@gmail.com**
 
